@@ -9,9 +9,19 @@ The original code is downloaded from http://eqseis.geosc.psu.edu/~cammon/HTML/Rf
 
 What I have done
 ================
-#. respknt : changing the input reading from a file rather than from command line.
+
+respknt
+-------
+Changing the input reading from a file rather than from command line.
+
+Utilities
+---------
+I add a utility of rftn.py under pysrc directory.
 
 Contacts
 ========
 Weijia Sun
-weijia_sun(at)163.com
+
+Email: weijia_sun(at)163.com
+
+Website: http://sunweijia.top
